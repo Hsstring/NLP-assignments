@@ -52,7 +52,3 @@ This assignment focuses on implementing **basic Natural Language Processing (NLP
 3. Stemmed version of the English text  
 4. Normalized version of both texts  
 5. Brief note on observed errors or challenges
-
-
-
-## 🧾 File Structure
