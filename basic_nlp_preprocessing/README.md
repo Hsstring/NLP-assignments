@@ -1,4 +1,4 @@
-#Assignment 1 — Basic NLP Preprocessing
+# Assignment 1 — Basic NLP Preprocessing
 
 ## Objective
 This assignment focuses on implementing **basic Natural Language Processing (NLP) preprocessing** tasks *from scratch* using **Regular Expressions (RegEx)** and **Python** — without relying on external libraries such as `nltk` for tokenization, stemming, or normalization.
